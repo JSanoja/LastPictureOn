@@ -1,0 +1,20 @@
+{
+  "name": "laston",
+  "description": "io project",
+  "main": "index.html",
+  "authors": [
+    "Juan Sanoja"
+  ],
+  "license": "MIT",
+  "homepage": "home.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
