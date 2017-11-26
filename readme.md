@@ -12,7 +12,7 @@
 - Api Facebook
 
 # Install
-- git clone
+- git clone https://github.com/JSanoja/LastPictureOn.git
 - cd LastPictureOn
 - npm install
 - ionic serve
